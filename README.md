@@ -3,9 +3,9 @@ siteOnChair
 
 Projekt ktory robimy na warsztatach.  Projekt składa się z grafik i html. 
 (dwie spacja -> nowa linia)
-Struktura html
---------------
 
+--------------
+Struktura html
 1. css
    - style.css
    - rest.css
